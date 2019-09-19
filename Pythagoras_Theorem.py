@@ -1,4 +1,6 @@
-# python -m manim pythagorastheorem2.py fig -pm
+# python -m manim Pythagoras_Theorem.py fig -pm
+#Status: Published
+# https://youtu.be/KNhyMjZLtNY
 
 from manimlib.imports import *
 
